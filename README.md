@@ -58,6 +58,7 @@ This section lists all major parts that compose my current build, some items may
 * MB: [Asus TUF GAMING B660-PLUS WIFI6 DDR4](https://www.amazon.es/Asus-TUF-Gaming-B760-PLUS-WiFi/dp/B0BNQBNB61/ref=sr_1_3)
 * CPU: [Intel Core i7 12700K](https://www.amazon.es/i7-12700K-procesador-equipos-sobremesa-desbloqueado/dp/B09GYJ5P98/ref=sr_1_5_pp)
 * RAM: [Kingston FURY Beast 32GB 3200MHz (2x16GB) DDR4](https://www.amazon.es/gp/product/B097K2WKZW/ref=ppx_yo_dt_b_asin_title_o01_s01)
+* GPU: [XFX Radeon RX 6900XT 16GB](https://www.amazon.es/gp/product/B097K2WKZW/ref=ppx_yo_dt_b_asin_title_o01_s01)
 
 
 
