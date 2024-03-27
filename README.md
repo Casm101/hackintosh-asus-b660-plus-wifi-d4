@@ -24,13 +24,12 @@
 
 - [Table of Contents](#table-of-contents)
 - [About The Project](#about-the-project)
-  - [Built With](#built-with)
+- [The Build](#the-build)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
 - [Roadmap](#roadmap)
-- [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
@@ -39,8 +38,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 This project is where I maintain my own personal Hackintosh using OpenCore, it's goal is to maintain a functioning version of my configuration and help other with similar systems up and running quick and easily. 
 
@@ -52,11 +49,15 @@ Of course, this configuration isn't a one-for-all solution, it is specific most 
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
-### Built With
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
+
+<!-- SYSTEM BUILD SPECS -->
+## The Build
+
+This section lists all major parts that compose my current build, some items may be omited, as they have no say or any influence in the OC configuration:
+
+* MB: [Asus TUF GAMING B660-PLUS WIFI6 DDR4](https://www.amazon.es/Asus-TUF-Gaming-B760-PLUS-WiFi/dp/B0BNQBNB61/ref=sr_1_3)
+* CPU: [Intel Core i7 12700K](https://www.amazon.es/i7-12700K-procesador-equipos-sobremesa-desbloqueado/dp/B09GYJ5P98/ref=sr_1_5_pp)
+* RAM: [Kingston FURY Beast 32GB 3200MHz (2x16GB) DDR4](https://www.amazon.es/gp/product/B097K2WKZW/ref=ppx_yo_dt_b_asin_title_o01_s01)
 
 
 
@@ -104,20 +105,9 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
+This project will be maintained and continually updated for OC updates and system changes as long as it is still useful to myself
 
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+See the [open issues](https://github.com/Casm101/hackintosh-asus-b660-plus-wifi-d4/issues) for a list of proposed features (and known issues).
 
 
 
@@ -131,9 +121,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Christian Smith Mantas - [@Casm_101](https://twitter.com/casm_101)
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/Casm101/hackintosh-asus-b660-plus-wifi-d4](https://github.com/Casm101/hackintosh-asus-b660-plus-wifi-d4)
 
 
 
